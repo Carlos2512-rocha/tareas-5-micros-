@@ -12,7 +12,6 @@ Control en tiempo real de un brazo robótico simulado (URDF) mediante potencióm
 
 [![Ver video de funcionamiento](https://img.youtube.com/vi/ID_DEL_VIDEO/0.jpg)](https://youtu.be/ID_DEL_VIDEO)
 
-> Reemplaza `ID_DEL_VIDEO` por el identificador de tu video de YouTube. Si prefieres subir el `.mp4` a GitHub, edita este archivo en la web y arrastra el video al editor.
 
 ---
 
